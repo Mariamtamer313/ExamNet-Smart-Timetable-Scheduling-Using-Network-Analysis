@@ -1,1 +1,1 @@
-# ExamNet-Smart-Timetable-Scheduling-Using-Network-Analysis
+Smart-Timetable-Scheduling-Using-Network-Analysis
